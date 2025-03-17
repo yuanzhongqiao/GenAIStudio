@@ -126,11 +126,11 @@ ansible-playbook genai-studio.yml" tabindex="0" role="button">
 </svg>
     </clipboard-copy>
   </div></div>
-<p dir="auto"><em _msttexthash="120151278" _msthash="312">注意：您可以在 <a href="/opea-project/GenAIStudio/blob/main/setup-scripts/setup-genai-studio/genai-studio.yml" _istranslated="1">genai-studio.yml</a> 中查看部署配置</em></p>
+<p dir="auto"><em _msttexthash="120151278" _msthash="312">注意：您可以在 <a href="https://github.com/opea-project/GenAIStudio/blob/main/setup-scripts/setup-genai-studio/genai-studio.yml" _istranslated="1">genai-studio.yml</a> 中查看部署配置</em></p>
 </li>
 <li>
 <p dir="auto"><strong _msttexthash="7009821" _msthash="313">配置 Admin Console</strong></p>
-<p dir="auto" _msttexthash="339474889" _msthash="314">请参阅 <a href="/opea-project/GenAIStudio/blob/main/assets/keycloak/README.md" _istranslated="1">Admin Console 配置指南</a>，了解如何配置和自定义 Admin Console 以及管理用户权限。</p>
+<p dir="auto" _msttexthash="339474889" _msthash="314">请参阅 <a href="https://github.com/opea-project/GenAIStudio/blob/main/assets/keycloak/README.md" _istranslated="1">Admin Console 配置指南</a>，了解如何配置和自定义 Admin Console 以及管理用户权限。</p>
 </li>
 </ol>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="14523171" _msthash="315">GenAIStudio 入门</h2><a id="user-content-getting-started-with-genaistudio" class="anchor" aria-label="永久链接：GenAIStudio 入门" href="#getting-started-with-genaistudio" _mstaria-label="1330199" _msthash="316"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -143,11 +143,11 @@ ansible-playbook genai-studio.yml" tabindex="0" role="button">
 <ol dir="auto">
 <li>
 <p dir="auto"><font _mstmutation="1" _msttexthash="240959693" _msthash="324">在 上，单击 <strong _mstmutation="1" _istranslated="1">Import Sample Workflow</strong>，您将能够看到示例工作流的列表。</font><code>Main Page</code></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/run_sample_workflow_1.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/run_sample_workflow_1.png" alt="run_sample_workflow_1" style="max-width: 100%;" _mstalt="479401" _msthash="325"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/run_sample_workflow_1.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/run_sample_workflow_1.png" alt="run_sample_workflow_1" style="max-width: 100%;" _mstalt="479401" _msthash="325"></a></p>
 </li>
 <li>
 <p dir="auto"><font _mstmutation="1" _msttexthash="499682170" _msthash="326">单击 以在画布中打开工作流。查看节点及其配置。您可以根据自己的喜好修改模型，并根据需要输入 Hugging Face 令牌。</font><code>sample_workflow_chatqna</code></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/run_sample_workflow_2.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/run_sample_workflow_2.png" alt="run_sample_workflow_2" style="max-width: 100%;" _mstalt="479752" _msthash="327"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/run_sample_workflow_2.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/run_sample_workflow_2.png" alt="run_sample_workflow_2" style="max-width: 100%;" _mstalt="479752" _msthash="327"></a></p>
 </li>
 <li>
 <p dir="auto" _msttexthash="175416046" _msthash="328">一切就绪后，您可以返回主页并单击运行按钮<a href="#launch-a-sandbox" _istranslated="1">以启动沙盒</a>。</p>
@@ -158,17 +158,17 @@ ansible-playbook genai-studio.yml" tabindex="0" role="button">
 <li>
 <p dir="auto"><strong _msttexthash="28917005" _msthash="331">创建新工作流：</strong></p>
 <p dir="auto"><font _mstmutation="1" _msttexthash="425924213" _msthash="332">在 上，单击 <strong _mstmutation="1" _istranslated="1">Create New Workflow</strong>。这将打开一个空白区域，您可以在其中开始构建新的工作流程。</font><code>Main Page</code><code>Canvas Page</code></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_1.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_1.png" alt="start_new_project_1" style="max-width: 100%;" _mstalt="402584" _msthash="333"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_1.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_1.png" alt="start_new_project_1" style="max-width: 100%;" _mstalt="402584" _msthash="333"></a></p>
 </li>
 <li>
 <p dir="auto"><strong _msttexthash="36292646" _msthash="334">拖放微服务节点：</strong></p>
 <p dir="auto" _msttexthash="1417818792" _msthash="335">在画布的左上角，单击 <strong _istranslated="1">Add Nodes （添加节点</strong>） ➕ 按钮以查看可用微服务节点的下拉列表。您可以展开每个类别并将节点拖动到画布上。使用鼠标滚动放大和缩小画布，以便更轻松地导航。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_2.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_2.png" alt="start_new_project_2" style="max-width: 100%;" _mstalt="402909" _msthash="336"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_2.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_2.png" alt="start_new_project_2" style="max-width: 100%;" _mstalt="402909" _msthash="336"></a></p>
 </li>
 <li>
 <p dir="auto"><strong _msttexthash="56824781" _msthash="337">配置和连接微服务节点：</strong></p>
 <p dir="auto" _msttexthash="1617052242" _msthash="338">某些节点具有可配置的参数，允许您设置特定设置。配置完一个节点后，你可以通过拖拽输出边到目标节点的输入边上，将其连接到另一个节点。工作流完成后，单击 💾 <strong _istranslated="1">Save Workflow</strong> 按钮以保存您的项目。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_3.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_3.png" alt="start_new_project_3" style="max-width: 100%;" _mstalt="403234" _msthash="339"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_3.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_3.png" alt="start_new_project_3" style="max-width: 100%;" _mstalt="403234" _msthash="339"></a></p>
 <p dir="auto" _msttexthash="379438709" _msthash="340">*可以通过从<em _istranslated="1">工作流画布右上角的图标</em><em _istranslated="1">下拉列表中选择 <code _istranslated="1"></code></em> ⚙️ Import Workflow 按钮来导入保存的工作流。</p>
 </li>
 <li>
@@ -177,7 +177,7 @@ ansible-playbook genai-studio.yml" tabindex="0" role="button">
 </ol>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4275596" _msthash="342">启动 Sandbox</h3><a id="user-content-launch-a-sandbox" class="anchor" aria-label="永久链接：启动 Sandbox" href="#launch-a-sandbox" _mstaria-label="583492" _msthash="343"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><font _mstmutation="1" _msttexthash="291248451" _msthash="344">返回 <strong _mstmutation="1" _istranslated="1">Main Page</strong>，您将在 Workflow （工作流） 列表下看到保存的工作流。单击</font><g-emoji class="g-emoji" alias="arrow_forward" _msttexthash="7642570" _msthash="345">▶️</g-emoji> <font _mstmutation="1" _msttexthash="1494337624" _msthash="346"><strong _mstmutation="1" _istranslated="1">Start （开始） 按钮</strong>为您的工作流程启动 Sandbox 环境。请等待 3-5 分钟，以便环境完全设置完毕。准备就绪后，您可以在 Sandbox App UI 中测试工作流程，并通过 Grafana 控制面板监控资源使用情况。</font></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_4.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_4.png" alt="start_new_project_4" style="max-width: 100%;" _mstalt="403559" _msthash="347"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/start_new_project_4.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/start_new_project_4.png" alt="start_new_project_4" style="max-width: 100%;" _mstalt="403559" _msthash="347"></a></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8932261" _msthash="348">App UI 功能</h3><a id="user-content-app-ui-features" class="anchor" aria-label="永久链接： App UI 功能" href="#app-ui-features" _mstaria-label="534833" _msthash="349"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <ol dir="auto">
 <li>
@@ -188,7 +188,7 @@ ansible-playbook genai-studio.yml" tabindex="0" role="button">
 <li>
 <p dir="auto"><strong _msttexthash="16236610" _msthash="353">上传数据源。</strong></p>
 <p dir="auto" _msttexthash="387172682" _msthash="354">通过上传文件（支持的文件类型：.pdf、.docx 和 .txt）或向在线文章插入多个 URL 来添加数据源。</p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/opea-project/GenAIStudio/blob/main/assets/screenshots/app-ui-datasources.png"><img src="/opea-project/GenAIStudio/raw/main/assets/screenshots/app-ui-datasources.png" alt="app-ui-数据源" style="max-width: 100%;" _mstalt="373087" _msthash="355"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/opea-project/GenAIStudio/blob/main/assets/screenshots/app-ui-datasources.png"><img src="https://github.com/opea-project/GenAIStudio/raw/main/assets/screenshots/app-ui-datasources.png" alt="app-ui-数据源" style="max-width: 100%;" _mstalt="373087" _msthash="355"></a></p>
 </li>
 </ol>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="94669861" _msthash="356">在 Grafana 仪表板中监控 Sandbox 资源利用率</h3><a id="user-content-monitor-sandbox-resource-utilization-in-grafana-dashboard" class="anchor" aria-label="永久链接：在 Grafana 控制面板中监控 Sandbox 资源利用率" href="#monitor-sandbox-resource-utilization-in-grafana-dashboard" _mstaria-label="3026010" _msthash="357"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
